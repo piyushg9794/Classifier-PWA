@@ -25,3 +25,6 @@ You have 2 options -
       - add the images to train
       - then add image to predict
       - click predict
+
+![desktop image](https://github.com/piyushg9794/Classifier-PWA/blob/master/functional%20Images/desktop1.png)
+![mobile image ](https://github.com/piyushg9794/Classifier-PWA/blob/master/functional%20Images/mobile.png)
