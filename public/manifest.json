@@ -1,0 +1,20 @@
+{
+  "short_name": "Classifier",
+  "name": "Image Classifier",
+  "icons": [
+    {
+      "src": "im.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "im2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
